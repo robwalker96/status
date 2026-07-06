@@ -4,18 +4,20 @@
     "url": "https://media-tracker.app",
     "icon": "https://icons.duckduckgo.com/ip3/media-tracker.app.ico",
     "slug": "media-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 155,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
-    "dailyMinutesDown": {}
+    "time": 237,
+    "timeDay": 172,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
+    "dailyMinutesDown": {
+      "2026-07-06": 0
+    }
   },
   {
     "name": "Supabase API",
@@ -34,7 +36,7 @@
     "timeMonth": 45,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2026-07-06": 91,
+      "2026-07-06": 661,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
